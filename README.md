@@ -36,7 +36,7 @@
 7 bộ dữ liệu được chuẩn bị sẵn trong thư mục `data/`:
 
 | File | Loại dữ liệu | Kích thước ($N$) |
-|---|---|---|---|
+|---|---|---|
 | `random_10000.txt` | Ngẫu nhiên | 10,000 |
 | `random_50000.txt` | Ngẫu nhiên | 50,000 |
 | `random_100000.txt` | Ngẫu nhiên | 100,000 |
