@@ -37,10 +37,10 @@
 
 | File | Loại dữ liệu | Kích thước ($N$) | Mô tả |
 |---|---|---|---|
-| `random_10000.txt` | Ngẫu nhiên | 10,000 | Các số nguyên phân bố ngẫu nhiên |
-| `random_50000.txt` | Ngẫu nhiên | 50,000 | Các số nguyên phân bố ngẫu nhiên |
-| `random_100000.txt` | Ngẫu nhiên | 100,000 | Các số nguyên phân bố ngẫu nhiên |
-| `random_500000.txt` | Ngẫu nhiên | 500,000 | Các số nguyên phân bố ngẫu nhiên |
+| `random_10000.txt` | Ngẫu nhiên | 10,000 | Dãy số sắp xếp ngẫu nhiên |
+| `random_50000.txt` | Ngẫu nhiên | 50,000 | Dãy số sắp xếp ngẫu nhiên |
+| `random_100000.txt` | Ngẫu nhiên | 100,000 | Dãy số sắp xếp ngẫu nhiên |
+| `random_500000.txt` | Ngẫu nhiên | 500,000 | Dãy số sắp xếp ngẫu nhiên |
 | `sorted_10000.txt` | Đã sắp xếp tăng | 10,000 | Dãy số tăng dần |
 | `reverse_10000.txt` | Sắp xếp giảm | 10,000 | Dãy số giảm dần |
 | `partial_100000.txt` | Sắp xếp một phần | 100,000 | Một phần dữ liệu đã có thứ tự |
