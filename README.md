@@ -35,15 +35,15 @@
 
 7 bộ dữ liệu được chuẩn bị sẵn trong thư mục `data/`:
 
-| File | Loại dữ liệu | Kích thước ($N$) | Mô tả |
+| File | Loại dữ liệu | Kích thước ($N$) |
 |---|---|---|---|
-| `random_10000.txt` | Ngẫu nhiên | 10,000 | Dãy số sắp xếp ngẫu nhiên |
-| `random_50000.txt` | Ngẫu nhiên | 50,000 | Dãy số sắp xếp ngẫu nhiên |
-| `random_100000.txt` | Ngẫu nhiên | 100,000 | Dãy số sắp xếp ngẫu nhiên |
-| `random_500000.txt` | Ngẫu nhiên | 500,000 | Dãy số sắp xếp ngẫu nhiên |
-| `sorted_10000.txt` | Đã sắp xếp tăng | 10,000 | Dãy số tăng dần |
-| `reverse_10000.txt` | Sắp xếp giảm | 10,000 | Dãy số giảm dần |
-| `partial_100000.txt` | Sắp xếp một phần | 100,000 | Một phần dữ liệu đã có thứ tự |
+| `random_10000.txt` | Ngẫu nhiên | 10,000 |
+| `random_50000.txt` | Ngẫu nhiên | 50,000 |
+| `random_100000.txt` | Ngẫu nhiên | 100,000 |
+| `random_500000.txt` | Ngẫu nhiên | 500,000 |
+| `sorted_10000.txt` | Sắp xếp tăng dần | 10,000 |
+| `reverse_10000.txt` | Sắp xếp giảm dần | 10,000 |
+| `partial_100000.txt` | Sắp xếp một phần | 100,000 |
 
 
 ### 3.3 Quy trình đo
